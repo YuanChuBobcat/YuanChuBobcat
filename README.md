@@ -1,6 +1,6 @@
 ## Hi there 👋
-## 🌱 I am currently learning to use Blender for creating anime characters and assisting in drawing. Additionally, I am working on mastering more programming languages, such as Java and Python.
-## 😄 I possess proficiency in the C++ programming language as well as extensive experience with the RPG Maker game engine.
+# 🌱 I am currently learning to use Blender for creating anime characters and assisting in drawing. Additionally, I am working on mastering more programming languages, such as Java and Python.
+# 😄 I possess proficiency in the C++ programming language as well as extensive experience with the RPG Maker game engine.
 <!--
 **YuanChuBobcat/YuanChuBobcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
